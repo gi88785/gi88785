@@ -1,10 +1,10 @@
 
 <h1 align="center"> Hello :wave: I'm Theo </h1>
-<h3 align="center"> I'm an Informatician. </h3>
+<h3 align="center"> I'm an Aspiring Informatician. </h3>
 
-## :man_technologist:  About Me
+## 🙋‍♂️ About Me
 
-- :brain: I am currently learning **Flutter**
+- :brain: I am currently learning **Flutter** and just recently purchased my first **Domain**
 
 - :mortar_board:  I'm on the verge of completing my formation as an **Application Developper**.
 
@@ -21,66 +21,68 @@
 
 </br>
 
-## :rocket: Languages and Tools
+## :man_technologist: Languages
 
-<p align="center"> 
+<p align="center">
+  </a>
+    <a href="https://www.alaska-software.com/" target="_blank" title="Xbase++">
+    <img src="images/xbase" width="50" height="50"/>
+  </a>
+    <a href="https://www.python.org/" target="_blank" title="Python">
+    <img src="images/python" width="50" height="50"/>
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" title="HTML5"> 
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/>
+    <img src="images/html5" width="40" height="40"/>
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3"> 
-    <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/>
+    <img src="images/css3" width="40" height="40"/>
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"> 
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/>
+    <img src="images/javascript" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" title="Bootstrap">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
+    <img src="images/bootstrap" width="40" height="40"/>
   </a>
    <a href="https://react.dev/" target="_blank" title="ReactJS">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/>
+    <img src="images/react" width="40" height="40"/>
   </a>
   <a href="https://angular.io/" target="_blank" title="ANGULAR">
-    <img src="https://github.com/angular/angular/blob/main/aio/src/assets/images/logos/angular/angular.png" width="40" height="40"/>
+    <img src="images/angular" width="40" height="40"/>
   </a>
   <a href="https://www.php.net/" target="_blank" title="PHP">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40"/>
+    <img src="images/php" width="40" height="40"/>
   </a> 
   <a href="https://nodejs.org" target="_blank" title="NodeJS">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="50" height="50"/>
+    <img src="images/nodejs" width="50" height="50"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="50" height="50"/>
-  </a>
-  <a href="https://www.adobe.com/products/coldfusion-family.html" target="_blank" title="Adobe ColdFusion">
-    <img src="https://en.wikipedia.org/wiki/Adobe_ColdFusion#/media/File:Adobe_ColdFusion_logo_2021.svg" width="50" height="50"/>
-  </a>
-  <a href="https://sqlite.org/index.html" target="_blank" title="SQLLite">
-    <img src="https://de.wikipedia.org/wiki/SQLite#/media/Datei:SQLite370.svg" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank" title="XML">
-    <img src="https://de.wikipedia.org/wiki/Extensible_Markup_Language#/media/Datei:Extensible_Markup_Language_(XML)_logo.svg" width="50" height="50"/>
-  </a>
-  <a href="https://www.gofoxpro.com/service/windows-software" target="_blank" title="FoxPro">
-    <img src="https://en.wikipedia.org/wiki/FoxPro#/media/File:FoxPro_2.6_Developers_Guide_Cover.png" width="50" height="50"/>
-  </a>
-  <a href="https://www.alaska-software.com/" target="_blank" title="Xbase++">
-    <img src="https://ilx.alaska-software.com/index.php?ams/xbase-1-9-and-2-0-compatibility-information.59/cover-image" width="50" height="50"/>
-  </a>
-  <a href="https://www.java.com/en/" target="_blank" title="JAVA">
-    <img src="https://en.wikipedia.org/wiki/Java_%28programming_language%29#/media/File:Java_programming_language_logo.svg" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" title="Python">
-    <img src="https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.svg" width="50" height="50"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" title="VisualBasics">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" width="50" height="50"/>
-  </a>
-  <a href="https://fortran-lang.org/en/" target="_blank" title="Fortran">
-    <img src="https://en.wikipedia.org/wiki/Fortran#/media/File:Fortran_logo.svg" width="50" height="50"/>
+    <img src="images/mysql" width="50" height="50"/>
+
+    <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" title="VisualBasics">
+    <img src="images/vb" width="50" height="50"/>
   </a>
   <a href="https://flutter.dev/" target="_blank" title="Flutter">
-    <img src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" width="50" height="50"/>
+    <img src="images/flutter" width="50" height="50"/>
   </a>
+  <a href="https://www.adobe.com/products/coldfusion-family.html" target="_blank" title="Adobe ColdFusion">
+    <img src="images/coldfusion" width="50" height="50"/>
+  </a>
+  <a href="https://sqlite.org/index.html" target="_blank" title="SQLite">
+    <img src="images/sqlite" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank" title="XML">
+    <img src="images/xml" width="50" height="50"/>
+  </a>
+  <a href="https://www.gofoxpro.com/service/windows-software" target="_blank" title="FoxPro">
+    <img src="images/foxpro" width="50" height="50"/>
+  </a>
+  <a href="https://www.java.com/en/" target="_blank" title="JAVA">
+    <img src="java" width="50" height="50"/>
+  </a>
+  <a href="https://fortran-lang.org/en/" target="_blank" title="Fortran">
+    <img src="images/fortran" width="50" height="50"/>
+  </a>
+  
 </p>
 
 </br>
