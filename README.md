@@ -95,9 +95,11 @@
 
 ## 📊 My Stats 
 
-|                   |                    |                    |
-| ----------------- | ------------------ | ------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gi88785&layout=compact&theme=tokyonight)](https://github.com/gi88785/github-readme-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gi88785&show_icons=true&theme=tokyonight) | ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=gi88785&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true")|
+|                   |                    | 
+| ----------------- | ------------------ | 
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gi88785&layout=compact&theme=tokyonight)](https://github.com/gi88785/github-readme-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gi88785&show_icons=true&theme=tokyonight) | 
+
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=gi88785&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true")
 
 </br>
 
