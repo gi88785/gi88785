@@ -17,7 +17,8 @@
 -->
 - :mailbox:  How to reach me? : **theodore1011@yahoo.fr**
 
-- :zap:  Fun facts **I like music 🎸 | 📚 books 🦸 (mangas, Mahwas, Comics) | 🎬 movies, series and Animées | 🏀 Basketball| 🎮 Gaming (2k & Fifa).**
+- :zap:  Fun facts: </br>
+  **I like music 🎸 | 📚 books, mangas, Mahwas & Comics | 🎬 movies, series and Animées | 🏀 Basketball| 🎮 NBA2K & FIFA.**
 
 </br>
 
