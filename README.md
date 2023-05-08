@@ -15,7 +15,7 @@
 
 - :paintbrush: I like to do small projects in <a href="https://codepen.io/AshkoreDev" target="_blank" title="CodePen">CodePen</a>
 -->
-- :mailbox:  How to reach me **theodore1011@yahoo.fr**
+- :mailbox:  How to reach me? : **theodore1011@yahoo.fr**
 
 - :zap:  Fun facts **I like music 🎸 | 📚 books | 🎬 movies and series | 🦸 comics and superheroes | 🏀 Basketball| 🎮 Gaming.**
 
