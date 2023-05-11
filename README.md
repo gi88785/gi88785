@@ -2,7 +2,7 @@
 <h1 align="center"> Hello :wave: I'm Theo </h1>
 <h3 align="center"> I'm an Aspiring Informatician. </h3>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me 
 
 - :brain: I am currently learning **Flutter** and just recently purchased my first **Domain** 😁
 
